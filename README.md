@@ -13,9 +13,9 @@ I am Dio, love teaching, coding and something new
 
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=raihan-muhammad&theme=light&show_icons=true)](https://github.com/rafli-dio)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-muhammad&hide=TeX&layout=compact&theme=light)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=rafli-dio&theme=light&show_icons=true)](https://github.com/rafli-dio)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafli-dio&hide=TeX&layout=compact&theme=light)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=raihan-muhammad.raihan-muhammad)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafli-dio.rafli-dio)
 
 
