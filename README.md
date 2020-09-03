@@ -5,7 +5,6 @@
 I am Dio, i really like learning coding
 
 <p align="center">
-  <a href="mailto:raflidiomuhammadvalent@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
   <a href="https://instagram.com/raflidio_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
