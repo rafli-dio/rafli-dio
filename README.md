@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am Dio, love teaching, coding and something new
+I am Dio, i really like learning coding
 
 <p align="center">
   <a href="mailto:raflidiomuhammadvalent@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
