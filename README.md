@@ -4,9 +4,7 @@
 
 I am Dio, i really like learning coding
 
-<p align="center">
-  <a href="https://instagram.com/raflidio_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
+
 
 
 
